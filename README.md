@@ -1,4 +1,4 @@
-# Iosevka Slab WebFont 18.0.0
+# Iosevka Slab WebFont 19.0.0
 
 ## How to use
 
