@@ -1,4 +1,4 @@
-# Iosevka Slab WebFont 27.2.0
+# Iosevka Slab WebFont 27.2.1
 
 ## How to use
 
